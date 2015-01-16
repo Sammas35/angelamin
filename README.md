@@ -1,0 +1,2 @@
+# angelamin
+minimum AngluarJs project
